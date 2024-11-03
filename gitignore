@@ -4,8 +4,7 @@
 *.dll
 *.so
 *.dylib
-Kdeamon  # Ignore your built executable if it's named "Kdeamon"
-
+Kdeamon  
 # Folders for dependencies
 vendor/
 bin/
